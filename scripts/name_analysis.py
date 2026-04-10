@@ -16,5 +16,4 @@ try:
 except:
     print("Er ging iets mis.")
 
-
 input("\nDruk op Een toets om af te sluiten...")
